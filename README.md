@@ -1,4 +1,4 @@
-# How to run the code
+# How to run this code
 
 Since this is beginner level project so there is not many thing needs to be done to run this application on your local device .
 copy the repository on your device and follow the below step.
